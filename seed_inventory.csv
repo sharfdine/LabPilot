@@ -1,0 +1,449 @@
+item_name,item_type,unit,location,room,stock_qty
+Amoxicillin,chemical,gms,C1,135B,0.0
+Ascorbic acid / L-Ascorbic acid / Vitamin C,chemical,gms,C1,135B,0.0
+Bentonite Powder,chemical,gms,C1,135B,362.0
+Bismuth Carbonate,chemical,gms,C1,135B,260.0
+Boric Acid,chemical,gms,C1,135B,800.0
+Calamine,chemical,gms,C1,135B,318.0
+Calamine (Prep),chemical,gms,C1,135B,449.0
+Calcium hydroxide,chemical,gms,C1,135B,681.0
+Carboxy Methyl Cellulose,chemical,gms,C1,135B,2385.0
+Carnauba wax,chemical,gms,C1,135B,473.0
+Cetostearyl alcohol,chemical,gms,C1,135B,575.0
+Cetrimide,chemical,gms,C1,135B,464.0
+China clay,chemical,gms,C1,135B,433.0
+Cholesterol,chemical,gms,C1,135B,236.0
+Coconut Oil,chemical,gms,C1,135B,900.0
+Microcrystaline cellulose/ Avicel,chemical,gms,C1,135B,394.0
+D-Maltose monohydrate / Maltose monohydrate,chemical,gms,C2,135B,368.0
+L-Histidine,chemical,gms,C2,135B,24.0
+L-Menthol,chemical,gms,C2,135B,218.0
+Tyrosine/ L-tyrosine,chemical,mL,C2,135B,17.0
+Lactic Acid,chemical,gms,C2,135B,450.0
+Magnesium trisilicate,chemical,gms,C3,135B,106.0
+Menthol,chemical,gms,C3,135B,317.0
+Methyl cellulose,chemical,gms,C3,135B,449.0
+Mustard Oil,chemical,mL,C3,135B,1000.0
+Nutmeg Oil,chemical,mL,C3,135B,200.0
+Paraffin wax / Hard paraffin,chemical,gms,C4,135B,4208.0
+Pectin citrus,chemical,gms,C4,135B,206.0
+Peppermint Oil,chemical,mL,C4,135B,0.0
+Phloroglucinol,chemical,gms,C4,135B,20.0
+Povidone K30/ Polyvinylpyrrolidone / PVP K 30,chemical,gms,C4,135B,777.0
+Potassium Iodide,chemical,gms,"C4, C97",135B,589
+Sodium propylparaben,chemical,gms,C4,135B,339.0
+Sesame Oil,chemical,gms,C5,135B,500.0
+Sodium benzoate,chemical,gms,C5,135B,100.0
+Sodium Bicarbonate / Sodium hydrogen carbonate / Natrium hydrogen carbonate,chemical,gms,C5,135B,907
+Sodium Carbonate,chemical,gms,C5,135B,302.0
+Sodium lauryl sulphate / Sodium Dodecyl Sulphate,chemical,gms,C5,135B,450.0
+Sodium Nitroprusside,chemical,gms,C5,135B,0.0
+Sorbitol / D-sorbitol,chemical,gms,C5,135B,204.0
+Span 40 (Sorbitan Monopalmitate),chemical,gms,C5,135B,395.0
+Span 60 (Sorbitan Monostearate),chemical,mL,C5,135B,497.0
+Span 20 (Sorbitan Monolaurate),chemical,mL,C5,135B,350.0
+Starch (maize),chemical,gms,C5,135B,1268.0
+Sucrose,chemical,mL,C5,135B,2582.0
+Theobroma Oil / Cocoa Butter,chemical,gms,C6,135B,161.0
+Titanium dioxide / Titanium (IV) oxide,chemical,gms,C6,135B,981.0
+Triethanolamine,chemical,mL,C6,135B,800.0
+Turpentine oil,chemical,mL,C6,135B,450.0
+Tween 20 / Polysorbate 20,chemical,mL,C6,135B,150.0
+Tween 40 / Polysorbate 40,chemical,mL,C6,135B,450.0
+Zinc Oxide,chemical,gms,C6,135B,720.0
+Tween 60 / Polysorbate 60,chemical,gms,C11,135B,250.0
+Tween 80 / Polysorbate 80,chemical,gms,C11,135B,700.0
+Vanishing Cream,chemical,gms,C11,135B,396.0
+Sunflower oil,chemical,gms,C12,135B,0.0
+Talc / Talcum,chemical,gms,C12,135B,4589.0
+Tragacanth,chemical,mL,C12,135B,364.0
+Xanthan Gum,chemical,gms,C12,135B,900.0
+Zinc chloride,chemical,gms,C12,135B,500.0
+1-Naphthol / Naphthol,chemical,gms,C13,135B,694.0
+2-Naphthol,chemical,gms,C13,135B,500.0
+Lactose Anhydrous,chemical,mL,C13,135B,824.0
+n-butanol / 1-butanol,chemical,gms,C13,135B,5500.0
+Ninhydrin,chemical,gms,C13,135B,19.0
+O-Phthalic acid,chemical,mL,C13,135B,500.0
+Oleic Acid,chemical,gms,C13,135B,250.0
+Hydroxyethyl cellulose,chemical,mL,C14,135B,496.0
+HPMC E15 / Hydroxypropyl Methyl Cellulose E15,chemical,gms,C14,135B,600.0
+HPMC K100 / Hydroxypropyl Methyl Cellulose K100,chemical,gms,C14,135B,437.0
+HPMC K4M / Hydroxypropyl Methyl Cellulose K4M,chemical,gms,C14,135B,968.0
+Iodine,chemical,gms,C14,135B,233.0
+Iron (III) Chloride Hexahydrate,chemical,gms,C14,135B,200.0
+Iron Chloride Anhydrous,chemical,gms,C14,135B,448.0
+Methocil E-5 (Hydroxypropyl methylcellulose) / Hydroxypropyl Methyl Cellulose E5,chemical,gms,C14,135B,1941
+EDTA Disodium salt,chemical,gms,C15,135B,991.0
+Ethyl Acetate,chemical,mL,C15,135B,1000.0
+Gelatin,chemical,gms,C15,135B,129.0
+Glycolic Acid 99%,chemical,mL,C15,135B,419.0
+Di-potassium hydrogen Phosphate / Potassium hydrogen phosphate,chemical,gms,C16,135B,500.0
+Diclofenac sodium,chemical,gms,C16,135B,363.0
+Sodium Tetraborate / Di-sodium Tetraborate (Borax decahydrate)/ Sodium tetraborate decahydrate,chemical,gms,C16,135B,425.0
+Calcium acetate Anhydrous,chemical,gms,C17,135B,452.0
+Calcium chloride Anhydrous 93%,chemical,gms,C17,135B,870.0
+Calcium chloride hexahydrate,chemical,gms,C17,135B,421.0
+Calcium Oxide,chemical,gms,C17,135B,414.0
+Calcium Phosphate Monohydrate (monobasic),chemical,gms,C17,135B,454.0
+Calcium sulphate dihydrate,chemical,gms,C17,135B,481.0
+Carbomer 940 Resin NF (Carbopol),chemical,gms,C17,135B,1556.0
+Carrageenan,chemical,gms,C17,135B,492.0
+Catechol,chemical,gms,C17,135B,100.0
+Cetyl alcohol,chemical,gms,C17,135B,476.0
+Chitosan,chemical,gms,C17,135B,50.0
+Chloroacetic Acid,chemical,gms,C17,135B,950.0
+Citric Acid,chemical,gms,C17,135B,871.0
+Copper(II) acetate monohydrate,chemical,gms,C17,135B,338.0
+D-camphor,chemical,gms,C18,135B,480.0
+D-Mannitol,chemical,mL,C18,135B,402.0
+Dextrin Hydrate,chemical,mL,C18,135B,729.0
+Dibutyl phthalate,chemical,mL,C18,135B,1800.0
+Dichloromethane,chemical,gms,C18,135B,2400.0
+Bees Wax,chemical,gms,C19,135B,73.0
+Benzoic Acid,chemical,gms,C19,135B,387.0
+Beta-cyclodextrin,chemical,gms,C19,135B,100.0
+Bromine Water,chemical,mL,C19,135B,1300.0
+n-Hexane,chemical,mL,C19,135B,2600.0
+Acetic Acid/ glacial acetic acid,chemical,mL,C20,135B,50.0
+Acetone,chemical,mL,C20,135B,2800.0
+Acetyl Chloride,chemical,mL,C20,135B,350.0
+Acrylic Acid,chemical,mL,C20,135B,470.0
+Adipic Acid,chemical,gms,C20,135B,482.0
+Almond oil,chemical,mL,C20,135B,500.0
+Aluminium Sulphate Hexadecahydrate,chemical,gms,C20,135B,435.0
+Ammonia/ Ammonia solution/ Ammonium hydroxide,chemical,mL,C20,135B,2300.0
+Ammonium Sulfate,chemical,gms,C20,135B,858.0
+Para-aminophenol / 4-Aminophenol,chemical,gms,C20,135B,0.0
+Sodium Alginate / Alginic acid sodium salt,chemical,gms,C20,135B,463.0
+Hydrochloric acid fuming,chemical,mL,C46,135B,1000.0
+Nitric Acid,chemical,mL,C46,135B,2900.0
+Sulphur Powder,chemical,mL,C46,135B,718.0
+L-Alanine,chemical,mL,C94,135B,18.0
+L-Arginine,chemical,gms,C94,135B,138.0
+L-Aspartic Acid,chemical,gms,C94,135B,24.0
+L-Glutamine,chemical,gms,C94,135B,24.0
+L-Tartaric acid (crystals),chemical,gms,C94,135B,655.0
+L-Tryptophan,chemical,gms,C94,135B,27.0
+Lanolin (Wool alcohol),chemical,gms,C94,135B,457.0
+Lanolin (Wool fat),chemical,mL,C94,135B,516.0
+Lanolin anhydrous (Wool Wax),chemical,gms,C94,135B,973.0
+Lavender Oil,chemical,gms,C94,135B,190.0
+Lecithin,chemical,gms,C94,135B,879.0
+Lemon Oil (Essence Lemon),chemical,gms,C94,135B,150.0
+Liquid Paraffin,chemical,gms,C94,135B,5200.0
+Magnesium Chloride,chemical,gms,C94,135B,881.0
+"Magnesium Oxide, light",chemical,gms,C94,135B,0.0
+Magnesium stearate,chemical,gms,C94,135B,1716
+Magnesium Sulphate,chemical,gms,C94,135B,577.0
+Magnesium Trisilicate hydrate,chemical,gms,C94,135B,388.0
+Malic acid,chemical,gms,C94,135B,392.0
+Methacrylic acid,chemical,mL,C94,135B,800.0
+Methyl Orange,chemical,gms,C94,135B,20.0
+Methyl Salicylate,chemical,mL,C94,135B,370.0
+"Methylene Bis Acrylamide / N,N-methylene bis acrylamide / Bis acrylamide",chemical,gms,C94,135B,600.0
+Oxalic acid dihydrate,chemical,gms,C94,135B,1000.0
+Salicylic acid,chemical,gms,C95,135B,2060.0
+Shea Butter,chemical,gms,C95,135B,262.0
+Silica gel,chemical,gms,C95,135B,2014.0
+Silica gel rubin,chemical,gms,C95,135B,860.0
+Silver sulphate,chemical,gms,C95,135B,25.0
+Sodium Chloride,chemical,gms,C95,135B,758.0
+Sodium Citrate Dihydrate,chemical,gms,C95,135B,1087.0
+Sodium Hydrogen sulfate,chemical,gms,C95,135B,1000.0
+Sodium hydroxide,chemical,mL,C95,135B,1081
+Sodium Hypochlorite,chemical,gms,C95,135B,950.0
+Sodium Nitrite,chemical,gms,C95,135B,283.0
+Sodium Saccharin,chemical,gms,C95,135B,1386
+Sodium Salicylate,chemical,gms,C95,135B,469.0
+sodium sulphate,chemical,gms,C95,135B,404.0
+Span 80 (Sorbitan Monooleate),chemical,gms,C95,135B,1200.0
+Stearic acid,chemical,mL,C95,135B,427.0
+Stearyl alcohol,chemical,gms,C95,135B,489.0
+Succinic Acid,chemical,gms,C95,135B,478.0
+Paraffin oil,chemical,ml,C97,135B,800.0
+PEG 200 / Polyethylene glycol 200,chemical,gms,C97,135B,979.0
+PEG 400 / Polyethylene glycol 400,chemical,mL,C97,135B,200.0
+PEG 4000 / Polyethylene glycol 4000,chemical,gms,C97,135B,461.0
+Petroleum Ether,chemical,mL,C97,135B,4000.0
+White soft paraffin/White Petrolatum/Petroleum jelly/vaseline,chemical,gms,C97,135B,4553.0
+Phenol red,chemical,gms,C97,135B,69.0
+Phenolphthalein,chemical,gms,C97,135B,50.0
+Polyethylene glycol 6000/ PEG 6000,chemical,gms,C97,135B,905.0
+Polyvinyl alcohol,chemical,gms,C97,135B,170.0
+Potassium bromide,chemical,gms,C97,135B,490.0
+Potassium chloride,chemical,gms,C97,135B,410.0
+Potassium Dihydrogen Phosphate / Potassium Dihydrogen Phosphate (monobasic),chemical,gms,C97,135B,1349.0
+Potassium hexacyanoferrate,chemical,gms,C97,135B,495.0
+Potassium Hydroxide pellets,chemical,gms,C97,135B,739.0
+Potassium metabisulphite,chemical,gms,C97,135B,944.0
+Potassium Nitrate,chemical,gms,C97,135B,455.0
+Potassium persulfate / Potassium peroxodisulphate,chemical,gms,C97,135B,496.0
+Povidone,chemical,gms,C97,135B,1027.0
+Primogel / Sodium Starch Glycolate,chemical,gms,C97,135B,180.0
+Propylene glycol,chemical,mL,C97,135B,1700.0
+Ethanol,chemical,mL,C99,135B,0.0
+Methanol,chemical,mL,C99,135B,5600.0
+Chloroform,chemical,mL,WC,135B,2400.0
+Clove oil,chemical,mL,WC,135B,500.0
+Creatinine,chemical,gms,WC,135B,24.0
+Curcumin,chemical,gms,WC,135B,200.0
+Egg Albumin,chemical,gms,WC,135B,474.0
+Eudragit L,chemical,gms,WC,135B,998.0
+Eudragit RS,chemical,gms,WC,135B,436.0
+Glutaraldehyde / Glutaric dialdehyde,chemical,mL,WC,135B,500.0
+Glycerol / Glycerin,chemical,mL,WC,135B,9500.0
+Ibuprofen,chemical,gms,WC,135B,207.0
+Isopropyl alcohol / 2-Propanol,chemical,mL,WC,135B,2400.0
+Mefenamic acid,chemical,gms,WC,135B,500.0
+Metformin,chemical,gms,WC,135B,453.0
+Naphthalene,chemical,mL,WC,135B,308.0
+Nutrient Agar,chemical,gms,WC,135B,1064.0
+Palmityl alcohol,chemical,mL,WC,135B,967.0
+Paracetamol,chemical,gms,WC,135B,471.0
+Piroxicam,chemical,gms,WC,135B,100.0
+Poloxamer 407,chemical,gms,WC,135B,245.0
+Polyacrylamide,chemical,gms,WC,135B,450.0
+Polyethylene glycol 8000/ PEG 8000,chemical,gms,WC,135B,480.0
+Polysucralose,chemical,gms,WC,135B,100.0
+Silver nitrate,chemical,gms,WC,135B,100.0
+Sulphuric Acid,chemical,mL,WC,135B,2500.0
+Diethyl ether,chemical,gms,WC/C16,135B,2600.0
+"2,4-Dinitrophenylhydrazine",chemical,gms,CP-1,138B,460.0
+Acetic Acid (glacial),chemical,mL,CP-1,138B,1800.0
+Acrylamide,chemical,gms,CP-1,138B,466.0
+Agar,chemical,gms,CP-1,138B,470.0
+Aluminum hydroxide,chemical,gms,CP-1,138B,847.0
+Amaranth,chemical,gms,CP-1,138B,955.0
+Ammonia/ Ammonia solution/ Ammonium hydroxide,chemical,mL,CP-1,138B,180.0
+Ammonium cerium (IV) Nitrate,chemical,gms,CP-1,138B,344.0
+Beef extract,chemical,gms,CP-1,138B,1000.0
+Benedicts solution,chemical,mL,CP-1,138B,1200.0
+Benzophenone,chemical,gms,CP-1,138B,464.0
+Benzyl alcohol,chemical,mL,CP-1,138B,900.0
+Bismuth (III) Nitrate basic,chemical,gms,CP-1,138B,181.0
+Brij L4,chemical,mL,CP-1,138B,250.0
+Bromothymol Blue,chemical,gms,CP-1,138B,12.0
+Calcium lactate (5H2O),chemical,gms,CP-1,138B,950.0
+Calcium stearate,chemical,gms,CP-1,138B,1420.0
+Carbol fuchsin dye,chemical,Liter,CP-1,138B,1350.0
+Castor oil,chemical,mL,CP-1,138B,180.0
+Catechol C14,chemical,gms,CP-1,138B,60.0
+Cedar wood oil,chemical,mL,CP-1,138B,900.0
+Celite 545,chemical,gms,CP-1,138B,240.0
+Cetostearyl alcohol,chemical,gms,CP-1,138B,364.0
+Chloral hydrate,chemical,gms,CP-1,138B,350.0
+Cinnamic acid,chemical,gms,CP-1,138B,480.0
+Congo Red,chemical,gms,CP-1,138B,15.0
+Crystal violet,chemical,gms,CP-1,138B,32.0
+D-(+)-Glucose monohydrate,chemical,gms,CP-1,138B,820.0
+Dextrin Blue,chemical,gms,CP-1,138B,420.0
+Dextrose/ D-Glucose,chemical,gms,CP-1,138B,16.0
+Di-sodium hydrogen phosphate,chemical,gms,CP-1,138B,940.0
+Egg albumin,chemical,gms,CP-1,138B,314.0
+Eosin methylene blue agar,chemical,gms,CP-1,138B,496.0
+Ethyl cellulose,chemical,gms,CP-1,138B,250.0
+Eucalyptus oil,chemical,mL,CP-1,138B,5.0
+Fehling solution A,chemical,ml,CP-1,138B,1000.0
+Fehling solution B,chemical,ml,CP-1,138B,1000.0
+Fructose,chemical,gms,CP-1,138B,650.0
+Gelatin,chemical,gms,CP-1,138B,352.0
+Glucose anhydrous,chemical,gms,CP-1,138B,600.0
+L-Glutamine,chemical,gms,CP-1,138B,25.0
+Glutaric acid,chemical,gms,CP-1,138B,25.0
+Glycerol / Glycerin,chemical,mL,CP-1,138B,0.0
+Glycine,chemical,gms,CP-1,138B,572.0
+Gram decolorizer,chemical,mL,CP-1,138B,500.0
+Gram iodine (stabilized),chemical,mL,CP-1,138B,400.0
+Gram Safranin,chemical,mL,CP-1,138B,520.0
+Gum acacia,chemical,gms,CP-1,138B,720.0
+Hexane,chemical,mL,CP-1,138B,400.0
+Histidine,chemical,gms,CP-1,138B,25.0
+Hydrogen peroxide,chemical,mL,CP-1,138B,3250.0
+Indigo carmine solution,chemical,mL,CP-1,138B,500.0
+Iron sulphate,chemical,gms,CP-1,138B,362.0
+Iron sulphide / Ferrous sulphide,chemical,gms,CP-1,138B,400.0
+Microcrystaline cellulose/ Avicel,chemical,gms,CP-1,138B,0.0
+Crystal Violet gram solution,chemical,ml,CP-2,138B,460.0
+Fast Green,chemical,gms,CP-2,138B,16.0
+L-Alanine,chemical,gms,CP-2,138B,25.0
+L-Arginine,chemical,gms,CP-2,138B,27.0
+L-lysine monohydrate,chemical,gms,CP-2,138B,21.0
+L-proline,chemical,gms,CP-2,138B,15.0
+L-threonine,chemical,gms,CP-2,138B,20.0
+L-Valine,chemical,gms,CP-2,138B,15.0
+Lead acetate,chemical,gms,CP-2,138B,662.0
+Leishman stain,chemical,litres,CP-2,138B,1450.0
+Litmus solution,chemical,ml,CP-2,138B,500.0
+Lizza white gel,chemical,mL,CP-2,138B,5000.0
+Magnesium sulfate heptahydrate,chemical,gms,CP-2,138B,1795.0
+Magnesium Sulphate,chemical,gms,CP-2,138B,119.0
+Malt extract,chemical,gms,CP-2,138B,450.0
+Mannitol salt agar,chemical,gms,CP-2,138B,680.0
+Mercury (II) sulfate,chemical,gms,CP-2,138B,200.0
+Mercury acetate,chemical,gms,CP-2,138B,15.0
+Methyl acetate,chemical,gram,CP-2,138B,950.0
+Methyl red,chemical,gms,CP-2,138B,40.0
+Methylene blue,chemical,gms,CP-2,138B,70.0
+Methylene blue liquid,chemical,mL,CP-2,138B,500.0
+Liquid Paraffin/ Mineral oil,chemical,mL,CP-2,138B,2200.0
+Mueller Hinton Agar,chemical,gms,CP-2,138B,1316.0
+Neutral Red,chemical,gms,CP-2,138B,22.0
+Nigrosin water soluble,chemical,gms,CP-2,138B,175.0
+Nutrient agar,chemical,gms,CP-2,138B,700.0
+Nutrient broth,chemical,gms,CP-2,138B,820.0
+o-Benzoic sulfimide sodium salt,chemical,gms,CP-2,138B,480.0
+Olive oil,chemical,mL,CP-2,138B,1000.0
+Oxalic acid dihydrate,chemical,gms,CP-2,138B,949.0
+Palmitic acid,chemical,gms,CP-2,138B,350.0
+Peptone,chemical,gms,CP-2,138B,363.0
+Peptone (Analytical grade),chemical,gms,CP-2,138B,500.0
+Peptone from soyabean (pancreatic digest of soyabean),chemical,gms,CP-2,138B,1000.0
+Phenol red,chemical,gms,CP-2,138B,80.0
+Phenolphthalein,chemical,gms,CP-2,138B,124.0
+Phenyl hydrazinium chloride,chemical,gms,CP-2,138B,420.0
+Phosphoric acid puriss,chemical,mL,CP-2,138B,2000.0
+Phosphotungstic acid,chemical,gms,CP-2,138B,0.0
+Phyllanthus emblica / Amla,chemical,gms,CP-2,138B,100.0
+Picric acid,chemical,gms,CP-2,138B,0.0
+Poly vinyl chloride,chemical,gms,CP-2,138B,900.0
+Potassium chromate,chemical,gms,CP-2,138B,404.0
+Potassium hydroxide / Potassium hydroxide pellets,chemical,gms,CP-2,138B,2728.0
+Potassium iodide,chemical,gms,CP-2,138B,240.0
+Potassium phosphate monobasic puriss,chemical,gms,CP-2,138B,1000.0
+Potassium sodium tartrate tetrahydrate,chemical,gms,CP-2,138B,216.0
+Pulv gum acacia,chemical,gms,CP-2,138B,320.0
+Resorcinol,chemical,gms,CP-2,138B,730.0
+Safranine,chemical,mL,CP-2,138B,260.0
+Safranine (solid),chemical,gms,CP-2,138B,40.0
+Sodium Acetate Trihydrate,chemical,gms,CP-2,138B,50.0
+Sodium Bisulfite,chemical,gms,CP-2,138B,480.0
+Sodium Citrate (ESR solution),chemical,mL,CP-2,138B,2300.0
+Sodium Citrate Dihydrate,chemical,gms,CP-2,138B,311.0
+Sodium citrate trisodium salt dihydrate,chemical,gms,CP-2,138B,0.0
+Sodium fluoride,chemical,gms,CP-2,138B,972.0
+Sodium hydride,chemical,gms,CP-2,138B,160.0
+Sodium lauryl sulphate / Sodium Dodecyl Sulphate,chemical,gms,CP-2,138B,1000.0
+Sodium metabisulfite,chemical,gms,CP-2,138B,698.0
+Sodium nitrate,chemical,gms,CP-2,138B,920.0
+Sodium nitrite,chemical,gms,CP-2,138B,1000.0
+Sodium phosphate dibasic anhydrous,chemical,gms,CP-2,138B,954.0
+Sodium phosphate monobasic dihydrate,chemical,gms,CP-2,138B,0.0
+Sodium Tripolyphosphate,chemical,gms,CP-2,138B,480.0
+Sorbitol / D-sorbitol,chemical,mL,CP-2,138B,700.0
+Starch,chemical,gms,CP-2,138B,70.0
+Stearic acid,chemical,gms,CP-2,138B,0.0
+Sunset orange color,chemical,gms,CP-2,138B,5.0
+Tannic acid (new),chemical,gms,CP-2,138B,1000.0
+Tartaric acid,chemical,gms,CP-2,138B,0.0
+Tartrazine yellow color,chemical,gms,CP-2,138B,5.0
+TB Decolorizer,chemical,mL,CP-2,138B,650.0
+TB Methylene Blue,chemical,mL,CP-2,138B,0.0
+Thymol,chemical,gms,CP-2,138B,225.0
+Tris buffer biological,chemical,gms,CP-2,138B,1000.0
+Tryptone (pancreatic digest from casein),chemical,gms,CP-2,138B,1000.0
+Urea,chemical,gms,CP-2,138B,730.0
+WBC solution,chemical,ml,CP-2,138B,2000.0
+Yeast extract,chemical,gms,CP-2,138B,400.0
+Zinc acetate (2H2O),chemical,gms,CP-2,138B,1200.0
+Acacia arabica / Babul,chemical,gms,C-20,138B,80.0
+Acacia bratica / Gond kitar,chemical,gms,C-20,138B,78.0
+Acacia catechu / Black catechu,chemical,gms,C-20,138B,371.0
+Aconitum napellus / Monkshood,chemical,gms,C-20,138B,30.0
+Amomum subulatum / Black Cardamom,chemical,gms,C-20,138B,165.0
+Andricus Nigricola / Nut Gall,chemical,gms,C-20,138B,90.0
+Argan oil,chemical,gms,C-20,138B,100.0
+Artemisia absinthium / Wormwood,chemical,gms,C-20,138B,104.0
+Asafoetida,chemical,gms,C-20,138B,270.0
+Asparagus racemosus / Shatavari,chemical,gms,C-20,138B,100.0
+Atropa belladonna / Belladonna,chemical,gms,C-20,138B,120.0
+Bambusa vulgaris,chemical,gms,C-20,138B,107.0
+Blackseed oil,chemical,ml,C-20,138B,100.0
+Bunium bulbocastanum / Black caraway,chemical,gms,C-20,138B,175.0
+Camellia sinensis / Black Tea,chemical,gms,C-20,138B,100.0
+Camellia sinensis / Green Tea,chemical,gms,C-20,138B,6.0
+Capsicum annuum / Capsicum,chemical,gms,C-20,138B,110.0
+Cassia angustifolia / Senna,chemical,gms,C-20,138B,209.0
+Cassia fistula,chemical,gms,C-20,138B,70.0
+Catharanthus roseus / Periwinkle,chemical,gms,C-20,138B,40.0
+Cinchona Bark,chemical,gms,C-20,138B,75.0
+Cinnamomum zeylanicum / Cinnamon,chemical,gms,C-20,138B,190.0
+Cinnamon oil,chemical,ml,C-20,138B,100.0
+Clove Oil,chemical,ml,C-20,138B,0.0
+Coconut,chemical,gms,C-20,138B,100.0
+Cod Liver oil/ Fish Oil,chemical,ml,C-20,138B,100.0
+Colchicum autumnale / Colchicum,chemical,gms,C-20,138B,245.0
+Cordia dichotoma / Indian Cherry,chemical,gms,C-20,138B,200.0
+Coriandrum sativum / Coriander,chemical,gms,C-20,138B,3.0
+Corn oil,chemical,ml,C-20,138B,1000.0
+Cucumis melo / Melon seeds,chemical,gms,C-20,138B,30.0
+Cumin oil,chemical,ml,C-20,138B,30.0
+Cuminum cyminum / Cumin,chemical,gms,C-20,138B,153.0
+Curcuma longa / Turmeric,chemical,gms,C-20,138B,160.0
+Datura stramonium / Datura,chemical,gms,C-20,138B,150.0
+Elettaria cardamomum / Cardamom,chemical,gms,C-20,138B,100.0
+Fennel oil,chemical,ml,C-20,138B,80.0
+Ferula foetida / Asfaoteida,chemical,gms,C-20,138B,242.0
+Foeniculum vulgare / Fennel,chemical,gms,C-20,138B,105.0
+Ginger oil,chemical,ml,C-20,138B,100.0
+Glycine max / Soyabean,chemical,gms,C-20,138B,100.0
+Glycyrrhiza glabra / Liquorice,chemical,gms,C-20,138B,90.0
+Grapeseed oil,chemical,ml,C-20,138B,100.0
+Gymnema sylvestre / Gudmar,chemical,gms,C-20,138B,210.0
+Illicium verum / Star Anise,chemical,gms,C-20,138B,20.0
+Jatamansi,chemical,gms,C-20,138B,73.0
+Jojoba oil,chemical,ml,C-20,138B,500.0
+Lawsonia inermis / Henna,chemical,gms,C-20,138B,120.0
+Lemon oil,chemical,ml,C-20,138B,0.0
+Linseed Flaxseed,chemical,gms,C-20,138B,100.0
+Linseed oil,chemical,ml,C-20,138B,100.0
+Mentha piperita / Peppermint,chemical,gms,C-20,138B,25.0
+Mentha spicata / Spearmint,chemical,gms,C-20,138B,30.0
+Moringa oleifera / Moringa,chemical,gms,C-20,138B,118.0
+Mucuna pruriens / Golden Shower,chemical,gms,C-20,138B,148.0
+Mucuna pruriens / Sea Beans,chemical,gms,C-20,138B,207.0
+Neem,chemical,gms,C-20,138B,100.0
+Neem oil,chemical,ml,C-20,138B,100.0
+Nutmeg oil,chemical,ml,C-20,138B,30.0
+Ocimum sanctum / Tulsi,chemical,gms,C-20,138B,140.0
+Onosma bracteatum / Gaozaban,chemical,gms,C-20,138B,120.0
+Palm oil,chemical,ml,C-20,138B,1000.0
+Panax ginseng / Ginseng,chemical,gms,C-20,138B,100.0
+Papaver somniferum / Opium poppy,chemical,gms,C-20,138B,160.0
+Pinus roxburghii / Cheer,chemical,gms,C-20,138B,109.0
+Piper nigrum / Black pepper,chemical,gms,C-20,138B,70.0
+Piper nigrum / White Pepper,chemical,gms,C-20,138B,160.0
+Quercus infectoria / Gall oak,chemical,gms,C-20,138B,185.0
+Rauwolfia serpentina / Rauwolfia,chemical,gms,C-20,138B,25.0
+Ricinus communis / Castor beans,chemical,gms,C-20,138B,350.0
+Rose oil,chemical,ml,C-20,138B,15.0
+Rosemary oil,chemical,ml,C-20,138B,250.0
+Salvia hispanica / Chia Seeds,chemical,gms,C-20,138B,240.0
+Sapindus mukorossi / Reetha,chemical,gms,C-20,138B,137.0
+Saussurea lappa / Costus root,chemical,gms,C-20,138B,130.0
+Saussurea lappa / Marine costus,chemical,gms,C-20,138B,47.0
+Senegalia Catechu,chemical,gms,C-20,138B,169.0
+Senna Alexandria,chemical,gms,C-20,138B,101.0
+Sesamum indicum / Sesame,chemical,gms,C-20,138B,390.0
+Silybum marianum / Milk Thistle,chemical,gms,C-20,138B,8.0
+Sinapis alba / White mustard,chemical,gms,C-20,138B,18.0
+Solanum nigrum / Black nightshade,chemical,gms,C-20,138B,140.0
+Soybean oil,chemical,ml,C-20,138B,1000.0
+Sphaeranthus indicus / Globe Thistle,chemical,gms,C-20,138B,130.0
+Styrax benzoin / Benzoin,chemical,gms,C-20,138B,120.0
+Syzygium aromaticum / Clove,chemical,gms,C-20,138B,110.0
+Tamarindus indica / Tamarind,chemical,gms,C-20,138B,100.0
+Tea Tree oil,chemical,ml,C-20,138B,100.0
+Terminalia Arjuna / Arjuna Herb,chemical,gms,C-20,138B,100.0
+Terminalia chebula / Haritaki,chemical,gms,C-20,138B,245.0
+Thyme oil,chemical,ml,C-20,138B,100.0
+Thymus vulgaris / Thyme,chemical,gms,C-20,138B,20.0
+Trachyspermum ammi / Ajwain,chemical,gms,C-20,138B,160.0
+Tribulus terrestris / Gokshura,chemical,gms,C-20,138B,156.0
+Zingiber officinale / Ginger,chemical,gms,C-20,138B,138.0
+Chlorophytum borivilianum / Safed musli,chemical,gms,CP-20,138B,100.0
+Eclipta prostrata / Bhringraj,chemical,gms,CP-20,138B,968.0
+Mesua ferrea / Nagkesar,chemical,gms,CP-20,138B,100.0
+"2,4-Dinitrophenol",chemical,gms,,138B,1.5
+Malachite green,chemical,gms,,138B,80.0
+Naphthalene,chemical,gms,,138B,230.0
